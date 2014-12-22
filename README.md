@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Three letters written by the King of Nauarre first Prince of the bloud and chiefe peere of France to
+
 #####Body#####
-Three letters written by the King of Nauarre first Prince of the bloud and chiefe peere of France to
+
+1. ❧To my Maiſters the Cleargie.
+
+1. To the Lords of the Nobilitie.
+
+1. To my Maiſters of the third Estate.
+
+1. ❧To my Maiſters of Paris.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
